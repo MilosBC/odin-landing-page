@@ -1,1 +1,3 @@
 # odin-landing-page
+
+Odin landing page is an HTML + CSS project that serves to solidify the knowledge of HTML and basic CSS. What we have here is a one-page website that represents a landing page with some dummy content. We haven't promoted any particular product or company here, the project was done as a part of TheOdinProject and it was developed for practice purposes only. 
