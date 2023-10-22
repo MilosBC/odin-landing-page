@@ -25,7 +25,7 @@ ul {
     
     background-color: #1F2937;
     color: #F9FAF8;
-    height: 600px;
+    
 }
 
 .navigation {
@@ -77,7 +77,7 @@ bottom: 15px;
 .main-content p {
     font-size: 18px;
     color: #E5E7EB;
-    margin-left: 3px;
+    margin-left: 2px;
 }
 
 .main-content button {
@@ -98,7 +98,7 @@ margin: 25px auto 0 auto;
 }
 
 .section-two {
-    height: 600px;
+   
     
     padding-top: 50px;
 
@@ -125,6 +125,7 @@ margin: 25px auto 0 auto;
 
 .image-container img {
     border: 2px solid #3882F6;
+    object-fit: cover;
 }
 
 .image-container p {
@@ -134,7 +135,7 @@ margin: 25px auto 0 auto;
 }
 
 .section-three {
-    height: 600px;
+    
     background-color: #E5E7EB;
     color: #1F2937;
     font-size: 36px;
@@ -166,7 +167,7 @@ margin: 25px auto 0 auto;
 }
 
 .section-four {
-    height: 600px;
+    
     display: flex;
     align-items: center;
 }
@@ -174,6 +175,7 @@ margin: 25px auto 0 auto;
 .section-four-container {
     background-color: #3882F6;
     width: 700px;
+    height: 100px;
     color: #F9FAF8;
     margin: 0 auto;
     display: flex;
@@ -185,6 +187,16 @@ margin: 25px auto 0 auto;
     color: #E5E7EB;
     border: 1px solid #E5E7EB;
     border-radius: 3px;
+    width: 75px;
+    height: 25px;
+    padding: 2px;
+    font-weight: bold;
+}
+
+.action-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .action-text p:nth-of-type(2) {
@@ -199,6 +211,17 @@ margin: 25px auto 0 auto;
 .button-div {
     display: flex;
     align-items: center;
+    
+   
+   
+    
+}
+
+.section-one,
+.section-two,
+.section-three,
+.section-four {
+    height: 600px;
 }
 
 .footer {
