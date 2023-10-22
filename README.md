@@ -4,4 +4,4 @@ Odin landing page is an HTML + CSS project that serves to solidify the knowledge
 
 ***
 
-Special thanks to Tirachard Kumtanom, ThisIsEngineering, MART PRODUCTION, Karolina Grabowska, and Artem Podrez for providing the images that were used on this landing page.
+Special thanks to Tirachard Kumtanom, ThisIsEngineering, MART PRODUCTION, Karolina Grabowska, and Artem Podrez for providing the images that were used on this landing page. You can find all of their work on https://www.pexels.com/.
